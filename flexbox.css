@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+
+body {
+    background-color:#000A25 ;
+
+}
+.conteudo h1{
+
+width: 248px;
+height: 51px;
+margin-top: 45px;
+margin: auto;
+color: aliceblue;
+text-align: center;
+
+
+ 
+}
+
+.Imagem {
+
+width: 328px;
+height: 390px;
+
+background: url(img.svg);
+border-radius: 22px 22px 0px 0px;
+text-align: center;
+margin: auto;
+}
+
+.Texto {
+margin-top: 48px;
+width: 328px;
+height: 390px;
+color: aliceblue;
+text-align: center;
+
+}
+
+.conteudo {
+    box-sizing: border-box;
+
+width: 328px;
+height: 601px;
+
+text-align: center;
+background: #002997;
+border: 1px solid #000000;
+border-radius: 22px;
+margin: auto;
+margin-top: 211px;
+margin-left: 750px;
+
+}
+
+
+
+    
